@@ -1,2 +1,2 @@
-<h1 align="center">Hi 👋, I'm Ahmet</h1>
+# Hi 👋, I'm Ahmet
 ### A developer from Turkey
